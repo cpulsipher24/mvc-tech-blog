@@ -1,0 +1,17 @@
+[
+    {
+        "user_id": 1,
+        "blog_id": 1,
+        "comment_text": "Great insights! Thanks for sharing."
+    },
+    {
+        "user_id": 2,
+        "blog_id": 2,
+        "comment_text": "This is fascinating! Can't wait to explore Deno further."
+    },
+    {
+        "user_id": 3,
+        "blog_id": 3,
+        "comment_text": "I completely agree with your points. Well said!"
+    }
+]

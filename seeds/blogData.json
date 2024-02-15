@@ -1,0 +1,17 @@
+[
+    {
+        "title": "The Rise of GraphQL in Modern Web Development",
+        "article": "GraphQL, a query language for APIs and runtime for executing those queries, has gained significant traction in recent years, especially in modern web development. Originally developed by Facebook in 2012 and released as an open-source project in 2015, GraphQL offers a more efficient, powerful, and flexible alternative to RESTful APIs. Its declarative nature allows clients to specify exactly the data they need, reducing over-fetching and under-fetching of data. With support from major tech companies and a growing ecosystem of tools and libraries, GraphQL is becoming a preferred choice for building APIs and data-driven applications.",
+        "user_id": 3
+    },
+    {
+        "title": "The Evolution of JavaScript Frameworks: A Look Back and Ahead",
+        "article": "JavaScript frameworks have played a pivotal role in shaping the landscape of web development over the past decade. From the early days of jQuery to the rise of Angular, React, and Vue.js, the ecosystem has witnessed rapid evolution and innovation. Looking ahead, several trends are emerging that will continue to influence the direction of JavaScript frameworks. These include improvements in performance, enhanced developer experience, increased adoption of server-side rendering, and tighter integration with native platforms. As the demands of web development evolve, JavaScript frameworks will continue to evolve to meet the needs of developers and users alike.",
+        "user_id": 1
+    },
+    {
+        "title": "Exploring the Power of Serverless Architecture in Cloud Computing",
+        "article": "Serverless architecture, also known as Function-as-a-Service (FaaS), is revolutionizing the way applications are developed, deployed, and scaled in the cloud. By abstracting away infrastructure management and providing a pay-per-execution pricing model, serverless computing offers greater flexibility, scalability, and cost-efficiency compared to traditional server-based approaches. Developers can focus on writing code and building features without worrying about server provisioning, maintenance, or scalability. With support from major cloud providers and a growing ecosystem of serverless tools and frameworks, serverless architecture is reshaping the future of cloud computing.",
+        "user_id": 2
+    }
+]
