@@ -19,12 +19,15 @@ Clone to repo to you computer and run npm install to install the required packag
 
 Repository Link: https://github.com/cpulsipher24/mvc-tech-blog
 
-Deployed Website Link: 
+Deployed Website Link: https://golly-mvc-tech-blog-ecfc8d061024.herokuapp.com/login
     
 ## Usage
 Start the server:
 
 npm start
+
+## Screenshot
+![Screenshot](./Images/screenshot.jpg)
 
 ## Database Setup
 1. Create a MySQL database.
