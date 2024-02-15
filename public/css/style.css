@@ -1,0 +1,25 @@
+header, .project:not(:last-child) {
+    border-bottom: 1px solid #ffcc00; /* Changed border color to yellow */
+  }
+  
+  .no-button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    color: #ff5722; /* Changed text color to orange */
+    text-decoration: none;
+    font-size: 100%;
+  }
+  
+  .no-button:hover {
+    color: #bf360c; /* Changed hover color to darker orange */
+    text-decoration: underline;
+  }
+  
+  .dollar-amount {
+    color: #4caf50; /* Changed text color to green */
+    font-weight: bold;
+    margin-left: -5px;
+  }
+  
