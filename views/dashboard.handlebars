@@ -1,0 +1,17 @@
+<div class="card text-center">
+  <div class="card-header">
+    <h1>Welcome!</h1>
+  </div>
+  <div class="row card-body text-center">
+    {{#if blogs.length}}
+      {{#each blogs as |blog|}}
+        {{> myblogs}}
+      {{/each}}
+    {{else}}
+    <h4>No blog posts found</h4>
+    {{/if}}
+  </div>
+  <div class="card-footer text-muted">
+    <a class="text-decoration-none btn btn-primary" href="/dashboard/blog">Create Blog</a>
+  </div>
+</div>
